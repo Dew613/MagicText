@@ -103,5 +103,5 @@ h1 > .magic > .magic-fire > svg{
 }
 
 h1 > .magic > .magic-fire > svg > path{
-    fill: var(--orange);
+    fill: var(--fire-color);
 }
