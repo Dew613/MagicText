@@ -5,7 +5,7 @@ Magic Text Effect
 
 ## What the Effect should look like:
 
-![](https://github.com/Dew613/TwitchHoverCard/blob/main/gifs/my%20replica.gif)
+![]([https://github.com/Dew613/TwitchHoverCard/blob/main/gifs/my%20replica.gif](https://github.com/Dew613/MagicText/blob/main/Flame%20Effect.gif))
 
 ## Features:
 
