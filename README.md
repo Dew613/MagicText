@@ -1,0 +1,2 @@
+# MagicText
+Magic Text Effect
