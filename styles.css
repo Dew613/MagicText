@@ -5,9 +5,9 @@
     --golden: #ffc11f;
     --bg: #131313;
 }
-*{
+/* *{
     border: red solid 1px;
-}
+} */
 
 @keyframes scale {
     from,to{

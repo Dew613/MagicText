@@ -7,8 +7,8 @@ const rand = (min, max) =>{
 
 for(const fire of document.getElementsByClassName("magic-fire")){
     setInterval( ()=>{
-        fire.style.setProperty("--fire-left", `${rand(-10,100)}`);
-        fire.style.setProperty("--fire-top", `${rand(-40,80)}`);
+        fire.style.setProperty("--fire-left", `${rand(-10,100)}%`);
+        fire.style.setProperty("--fire-top", `${rand(-40,80)}%`);
 
 
         fire.style.animation = "none";
