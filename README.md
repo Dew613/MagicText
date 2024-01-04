@@ -1,7 +1,7 @@
 # MagicText
 Magic Text Effect
 
-## [Click to check out the Effect](https://dew613.github.io/TwitchHoverCard/)
+## [Click to check out the Effect](https://dew613.github.io/MagicText/)
 
 ## What the Effect should look like:
 
