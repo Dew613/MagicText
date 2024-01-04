@@ -98,7 +98,7 @@ h1 > .magic > .magic-fire{
 
 h1 > .magic > .magic-fire > svg{
     display: block;
-    opacity: .7;
+    opacity: .8;
     animation: rotate 1000ms linear infinite;
 }
 
